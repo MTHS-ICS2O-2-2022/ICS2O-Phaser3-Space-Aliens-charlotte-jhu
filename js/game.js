@@ -9,6 +9,7 @@
 /**
  * Start Phaser Game.
  */
+//* Game scene */
 const config = {
   type: Phaser.AUTO,
   width: 1920,
